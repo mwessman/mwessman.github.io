@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mwessman.github.io/portfolio/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwessman.github.io/portfolio/tags/about/</loc>
-    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mwessman.github.io/portfolio/categories/about/</loc>
+    <loc>/tags/about/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mwessman.github.io/portfolio/categories/</loc>
+    <loc>/categories/about/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mwessman.github.io/portfolio/</loc>
+    <loc>/categories/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mwessman.github.io/portfolio/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
