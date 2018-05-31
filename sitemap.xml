@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mwessman.github.io/portfolio/about/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwessman.github.io/portfolio/tags/about/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mwessman.github.io/portfolio/categories/about/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mwessman.github.io/portfolio/categories/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mwessman.github.io/portfolio/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mwessman.github.io/portfolio/tags/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
