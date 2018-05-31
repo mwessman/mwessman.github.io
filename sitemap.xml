@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://shenoybr.github.io/about/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/about/</loc>
+    <loc>https://shenoybr.github.io/tags/about/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://shenoybr.github.io/categories/about/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://shenoybr.github.io/categories/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://shenoybr.github.io/</loc>
+    <lastmod>2018-05-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/tags/</loc>
     <lastmod>2018-05-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Michael Wessman</title>
-    <link>/categories/about/</link>
+    <link>https://shenoybr.github.io/categories/about/</link>
     <description>Recent content in About on Michael Wessman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 May 2018 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenoybr.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://shenoybr.github.io/about/</link>
       <pubDate>Wed, 02 May 2018 22:55:05 -0400</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://shenoybr.github.io/about/</guid>
       <description>Michael was born 1991 in Helsinki. In 2012 he moved to Turku to study computer engineering at Åbo Akademi. During summers he worked at different places as an IT-support or Helpdesk position.
 In 2016 he started working at Walkbase as an Implementation Engineer. At Walkbase he worked with network hardware and did configuration, testing and calibrating. He also did lots of customer and partner support, documentation, and even data analysis.</description>
     </item>
