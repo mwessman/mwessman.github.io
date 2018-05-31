@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Michael Wessman</title>
-    <link>https://shenoybr.github.io/categories/</link>
+    <link>https://mwessman.github.io/categories/</link>
     <description>Recent content in Categories on Michael Wessman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 May 2018 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mwessman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://shenoybr.github.io/categories/about/</link>
+      <link>https://mwessman.github.io/categories/about/</link>
       <pubDate>Wed, 02 May 2018 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/categories/about/</guid>
+      <guid>https://mwessman.github.io/categories/about/</guid>
       <description></description>
     </item>
     
