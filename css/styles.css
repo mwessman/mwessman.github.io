@@ -74,7 +74,7 @@ h2 {
   position: absolute;
   background: #fff;
   right: 10px;
-  top: 235px;
+  top: 300px;
   width: 80px;
   height: 80px;
   border-radius: 50%;
@@ -85,7 +85,7 @@ h2 {
 }
 
 #rest {
-  padding: 30px 15px;
+  padding: 15px 15px;
   line-height: 30px;
   color: #000d42
 }
